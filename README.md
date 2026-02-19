@@ -290,6 +290,7 @@ Use voice commands to generate 3D shapes:
 - **W/A/S/D** - Move around
 - **Shift** - Sprint
 - **Mouse** - Look around (click to lock pointer)
+- Press Ctrl + left click on mouse and move it to chanfe camera position 
 
 ### Settings
 
