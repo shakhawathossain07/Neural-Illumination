@@ -182,7 +182,7 @@ simulation-control-room/
 | **Post-Processing** | @react-three/postprocessing | Bloom, effects |
 | **Build Tool** | Vite 7 | Fast dev server & bundler |
 | **Styling** | Tailwind CSS v4 | Utility-first CSS |
-| **AI Model** | Google Gemini 3 Pro Preview | Chat, vision, code gen |
+| **AI Model** | Google Gemini 3.1 Pro Preview | Chat, vision, code gen |
 | **Voice Synthesis** | ElevenLabs API | Neural TTS |
 | **Speech Recognition** | Web Speech API | Browser-native STT |
 | **Python Runtime** | Pyodide (WebAssembly) | In-browser Python 3.10 |
@@ -202,8 +202,8 @@ simulation-control-room/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/neural-illumination.git
-cd neural-illumination
+git clone https://github.com/shakhawathossain07/Neural-Illumination.git
+cd Neural-Illumination
 ```
 
 ### 2. Install Dependencies
