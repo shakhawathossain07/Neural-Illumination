@@ -1,0 +1,32 @@
+/* Custom Scrollbar for Holo Screens */
+::-webkit-scrollbar {
+    width: 4px;
+}
+
+::-webkit-scrollbar-track {
+    background: rgba(0, 243, 255, 0.1);
+}
+
+::-webkit-scrollbar-thumb {
+    background: rgba(0, 243, 255, 0.4);
+    border-radius: 2px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background: rgba(0, 243, 255, 0.8);
+}
+
+/* CRT/Holo Scanline Animation */
+@keyframes scanline {
+    0% {
+        background-position: 0 0;
+    }
+
+    100% {
+        background-position: 0 100%;
+    }
+}
+
+.holo-text-shadow {
+    text-shadow: 0 0 5px currentColor;
+}
