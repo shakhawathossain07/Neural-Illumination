@@ -2,7 +2,8 @@
 
 **Neural Illumination** is an immersive 3D learning platform that combines spatial computing, AI companionship, and interactive Python education. Built for the **Gemini 3 Hackathon**, it showcases the power of multimodal AI in creating next-generation educational experiences.
 
-![Neural Illumination](https://via.placeholder.com/1200x600?text=Neural+Illumination+-+AI+Learning+Hub)
+
+<img width="959" height="539" alt="image" src="https://github.com/user-attachments/assets/c9d6c020-989c-45b0-bb6a-7566e9adec99" />
 
 > *"Where code meets consciousness, and learning becomes an adventure."*
 
